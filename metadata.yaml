@@ -1,5 +1,8 @@
 _repo: Lucasta_703
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lovelace, Richard
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/361
     wikipedia: http://en.wikipedia.org/wiki/Richard_Lovelace
 description: I. Epodes, Odes, Sonnets, Songs, etc; 2. Posthume Poems.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/703#Lucasta
 gutenberg_issued: '1996-10-01'
 gutenberg_type: Text
 identifiers:
